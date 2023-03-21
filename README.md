@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MuhammadAzhar8939
+- 👋 Hi, I’m @MuhammadAzhar
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning C++ and Flutter
+- 🌱 I’m currently learning C++, Flutter and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me azhar03067104663@gmail.com
 
